@@ -1,0 +1,17 @@
+
+.peque{ width:100%; height: 90%; float: center; padding: 10%;}
+.standar{ width:100%; height: 100%;}
+.mediana{ width:80%; height: 50%; margin-top: 30%; margin-left: 25%;}
+.flota{ left: 400px; text-align:center; top: 250px;}
+.fotologo{ width:10%; height: 10%; bottom: 10%;}
+.fondo{	background-color: orange; width:100%; height: 100%;}
+.icono{ width: 20%; height: 20%; margin-left: 10%; margin-top: 120%;}
+.cuadroborde{ display: inline-block; width: 20%; height: 50%; border: solid 2px green; margin: 0%;
+}
+.boton{	font-size: Arial 12px; width: 25%; height: 70%; border:0%;	}
+.Uno{   background-color: #FFD700;}
+.Dos{ background-color: #DAA520;}
+.btnMenu{ float:center; background-color: white; }
+.footer{ background-color: #DCDCDC;}
+.imagenbanner{ width:431%; }
+hr{ width:100%;}
